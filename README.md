@@ -26,6 +26,7 @@
 `URL`: my-app.parsae.workers.dev
 
 - 5 request(s)
+
 - time 0 : 82700
 
 - time 1 : 98262
@@ -82,6 +83,5 @@
 
 - smallest response: 4497 bytes
 
-- Parsas-Mac-mini:~ parsa\$
 
 As you can see, geeksforgeeks.com/c-plus-plus and my workers sites both return around 4,000 to 4,500 byte responses. That being said, my workers page seems to perform better in response speed, beating the other side in mean, median, and minimum response time!
