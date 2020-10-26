@@ -23,7 +23,7 @@
 
 ### The CLI tool will return the full `HTTP` response, as well as metrics shown in the sample requests below:
 
-** `URL`: my-app.parsae.workers.dev **
+**`URL`: my-app.parsae.workers.dev**
 
 - 5 request(s)
 
@@ -53,7 +53,7 @@
 
 - smallest response: 4208 bytes
 
-** `URL`: geeksforgeeks.com/c-plus-plus **
+**`URL`: geeksforgeeks.com/c-plus-plus**
 
 - 5 request(s)
 
